@@ -1,0 +1,6 @@
+module Pods_awesome {
+  umbrella header "Pods-awesome-umbrella.h"
+
+  export *
+  module * { export * }
+}
